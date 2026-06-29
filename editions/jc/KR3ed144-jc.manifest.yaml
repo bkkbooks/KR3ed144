@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR3ed144/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed144/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 丹方之研究
+  identifiers:
+    krp: KR3ed144
+  tags:
+    kr-categories: KR3ed
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed144.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed144_000-jc.yaml, hash: 'sha256:291cf5c61abf4b0cee31436efa648daa947ae82288f69a08d2a44a094ed3ea11'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed144_000-jc.markers.yaml, hash: 'sha256:3d0b59b1949041b01fedfd3e70ed6ab88ee2b0bba99c1be45bd7991907371324'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed144_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 366
+  label: 一例言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed144_jc_000-d3.h1s1
+    span:
+    - body
+    - 366
+    - 371
+  label: 二引用書目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed144_jc_000-d4.h1s1
+    span:
+    - body
+    - 371
+    - 376
+  label: 三丹方一覽
+  type: section
+  level: 1
+hash: sha256:b7e2ed59fc3232bbca27efed5be37cd4041c0ead50a910b763947329cff5c584
