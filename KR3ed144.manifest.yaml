@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed144_000.yaml, hash: 'sha256:b2e8daa0f6c6f999c5c7a3e5fcdad7160872abdb0ee3f28a21833888b5e804a8'}
+  - {seq: 0, filename: KR3ed144_000.yaml, hash: 'sha256:291cf5c61abf4b0cee31436efa648daa947ae82288f69a08d2a44a094ed3ea11'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed144_000.markers.yaml, hash: 'sha256:c73c37f7bb345eb643d395b45aa54edd312e8596640ea60227a6993831dca5e6'}
+  - {seq: 0, role: markers, filename: assets/KR3ed144_000.markers.yaml, hash: 'sha256:d85e691c017bb2381badf30e195a0a4c7dbed473174b7604b058e416740bc22f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -50,7 +50,4 @@ table_of_contents:
   label: 三丹方一覽
   type: section
   level: 1
-hash: sha256:3b37e81fb0260f7fd1ae26cadcb97cd5957972c2e2a97a40e45cf9f9838c93bd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bf69a5a51f5a2f6790ad79a50b03f272143b36dda8738d816fa0c654d63d982a
