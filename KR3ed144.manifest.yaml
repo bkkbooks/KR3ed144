@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed144/v1
 canonical_location: https://kanripo.org/bkk/KR3ed144/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 丹方之研究
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed144_000.yaml, hash: 'sha256:291cf5c61abf4b0cee31436efa648daa947ae82288f69a08d2a44a094ed3ea11'}
+  - {seq: 0, filename: KR3ed144_000.yaml, hash: 'sha256:b2e8daa0f6c6f999c5c7a3e5fcdad7160872abdb0ee3f28a21833888b5e804a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed144_000.markers.yaml, hash: 'sha256:d85e691c017bb2381badf30e195a0a4c7dbed473174b7604b058e416740bc22f'}
+  - {seq: 0, role: markers, filename: assets/KR3ed144_000.markers.yaml, hash: 'sha256:cb87413cbb11c7db0b68ff8b126f60fc1c7e33d95c02d365b34e05650bfbf5a3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -50,4 +50,7 @@ table_of_contents:
   label: 三丹方一覽
   type: section
   level: 1
-hash: sha256:bf69a5a51f5a2f6790ad79a50b03f272143b36dda8738d816fa0c654d63d982a
+hash: sha256:2933ea7adfc41167a4d46e91e1c93acd23fc562e7fb407119e249aa63712f95d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
